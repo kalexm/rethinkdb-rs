@@ -1,3 +1,5 @@
+# WARNING: DO NOT USE THIS IS A FORK USED AS A PLAYGROUND 
+
 # ReQL Driver
 
 This is a [ReQL] driver written in [Rust].
